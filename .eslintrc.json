@@ -1,0 +1,16 @@
+{
+    "extends": "airbnb",
+    "rules": {
+    "no-use-before-define": [2, {
+      "functions": false
+    }],
+    "complexity": [1, 5],
+    "comma-dangle": ["error", "never"],
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }],
+    "react/prop-types": 0,
+    "global-require": 0,
+    "max-len": [2, 100, 4],
+    "import/prefer-default-export": 0,
+    "no-underscore-dangle": 0
+  }
+}

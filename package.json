@@ -4,5 +4,17 @@
   "description": "Contains all UI Components and their styling properties for react native app",
   "main": "index.js",
   "repository": "git@github.com:asela-wijesinghe/TXRNUIKitManager.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.5.0",
+    "react": "16.0.0-alpha.12",
+		"react-native": "0.47.1",
+		"styled-components": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.2.1"
+  }
 }
