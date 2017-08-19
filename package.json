@@ -1,0 +1,8 @@
+{
+  "name": "TXRNUIKitManager",
+  "version": "1.0.0",
+  "description": "Contains all UI Components and their styling properties for react native app",
+  "main": "index.js",
+  "repository": "git@github.com:asela-wijesinghe/TXRNUIKitManager.git",
+  "license": "MIT"
+}
